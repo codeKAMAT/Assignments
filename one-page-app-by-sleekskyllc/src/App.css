@@ -7,7 +7,6 @@
 
   flex: 10%;
   max-width: 100px;
-  border: 1px solid black;
 }
 .logo {
   width: 100px;
@@ -31,6 +30,7 @@
   margin: 10px 0 0 10px;
   flex: auto;
   height: 78.3vh;
+
   background-color: rgb(255, 255, 255);
   overflow: scroll;
 }
@@ -54,9 +54,9 @@
 }
 
 .sidebar__btn {
-  margin-left: 10px;
-  margin-top: 10px;
-  padding: 16px 10px;
+  margin-left: 14px;
+  margin-top: 14px;
+  padding: 10px 10px;
   border: 1px solid black;
   cursor: pointer;
   text-align: center;
@@ -66,4 +66,19 @@
 .sidebar__btn:hover {
   background-color: rgb(255, 225, 90);
   color: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 600px) {
+  .page-header h1 {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-right: 40px;
+  }
+  .page-content {
+    height: 74vh;
+  }
+  .page-footer h1 {
+    font-size: 18px;
+    margin-top: 40px;
+  }
 }

@@ -9,7 +9,7 @@ const Content = () => {
       {times.map((elem, ind) => {
         return (
           <div key={ind}>
-            <p>You clicked at: {elem}</p>
+            <p>You clicked at {elem}</p>
           </div>
         )
       })}
