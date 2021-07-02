@@ -1,4 +1,4 @@
-## React Assignment - A One Page App
+## React Assignment by The Internet Folks - Shortly Landing Page
 
 Style Guide
 Layout
@@ -34,10 +34,10 @@ https://app.shrtco.de/docs
 
 #### See Live Site: <https://shortlybyck.netlify.app/>
 
-![Technology overview](ScreenShot/Shot1.png)
-![Technology overview](ScreenShot/Shot2.png)
-![Technology overview](ScreenShot/Shot3.png)
-![Technology overview](ScreenShot/Shot4.png)
-![Technology overview](ScreenShot/Shot5.png)
-![Technology overview](ScreenShot/Shot6.png)
-![Technology overview](ScreenShot/Shot7.png)
+![Technology overview](ScreenShot/Shot-1.png)
+![Technology overview](ScreenShot/Shot-3.png)
+![Technology overview](ScreenShot/Shot-2.png)
+![Technology overview](ScreenShot/Shot-4.png)
+![Technology overview](ScreenShot/Shot-5.png)
+![Technology overview](ScreenShot/Shot-6.png)
+![Technology overview](ScreenShot/Shot-7.png)
